@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: No Descriptions yet
+author: Zumry Mohamed
+license: This is opensource .
+copyright: Copyrights By Zumry @ 2013
+
+
+# these should not be edited
+name: btzumry
+moduleid: com.bleutooth.zumry
+guid: cf47d7b9-8ad9-48f0-9072-420f3c8d2b1a
+platform: android
+minsdk: 3.1.2.GA
